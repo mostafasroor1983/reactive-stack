@@ -1,6 +1,6 @@
 {
   "applications": ["gateway", "blog"],
-  "changelogDate": "20220531181056",
+  "changelogDate": "20220601070039",
   "clientRootFolder": "blog",
   "databaseType": "sql",
   "dto": "no",

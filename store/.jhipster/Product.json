@@ -1,6 +1,6 @@
 {
   "applications": ["gateway", "store"],
-  "changelogDate": "20220531180756",
+  "changelogDate": "20220601065739",
   "clientRootFolder": "store",
   "databaseType": "mongodb",
   "dto": "no",

@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "blog", "store"],
+    "clusteredDbApps": [],
+    "deploymentType": "docker-compose",
+    "directoryPath": "../",
+    "dockerRepositoryName": "msroor",
+    "gatewayType": "SpringCloudGateway",
+    "jwtSecretKey": "OTdkMjBhNTQ4NzE5ZDc1YmE0ZTVjNjgzYWViMTgzMjJkNjEyYTBmMjk1N2NmYjk3ZmJkYTBiYmZjOGNjM2QxNjI4ZWUxNzI1OGU4NTUxZmE0NjI0NzBkZjZkNGRiNjBhOTkwMg==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka"
+  }
+}
